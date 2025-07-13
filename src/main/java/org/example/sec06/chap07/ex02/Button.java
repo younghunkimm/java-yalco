@@ -1,4 +1,4 @@
-package org.example.chap07.ex02;
+package org.example.sec06.chap07.ex02;
 
 public class Button {
     public enum ClickedBy {

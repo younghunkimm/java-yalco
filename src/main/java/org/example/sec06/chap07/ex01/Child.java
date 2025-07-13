@@ -1,4 +1,4 @@
-package org.example.chap07.ex01;
+package org.example.sec06.chap07.ex01;
 
 /**
  * ⭐️ 레코드로 작성

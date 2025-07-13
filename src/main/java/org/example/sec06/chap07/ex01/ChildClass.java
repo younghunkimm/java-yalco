@@ -1,4 +1,4 @@
-package org.example.chap07.ex01;
+package org.example.sec06.chap07.ex01;
 
 //  기존처럼 클래스로 작성해야 했다면...
 public class ChildClass {
